@@ -1,0 +1,5 @@
+This is a simple command line weather app using the Open Weather API
+
+Simply input your APIKEY for the first run and Enter your city's name and preferred units (Metric or Imperial) and the weather for this location in the specified units will be displayed.
+
+Type quit to end the program!
